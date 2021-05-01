@@ -1,7 +1,7 @@
 {
-    "name": "mc",
-    "description": "Deploy mc on Heroku.",
-    "keywords": ["mc"],
+    "name": "mc_bedrock",
+    "description": "Deploy mc_bedrock on Heroku.",
+    "keywords": ["mc_bedrock"],
     "env": {
         "MEMORY": {
             "description": "MEMORY",
