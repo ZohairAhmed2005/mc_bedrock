@@ -1,0 +1,24 @@
+{
+    "name": "mc",
+    "description": "Deploy mc on Heroku.",
+    "keywords": ["mc"],
+    "env": {
+        "MEMORY": {
+            "description": "MEMORY",
+            "value": "8G"
+        },
+      
+        },
+        "TZ": {
+            "description": "TZ",
+            "value": "Asia/Shanghai"
+        },
+        "VERSION": {
+            "description": "VERSION",
+            "value": "1.16.221.01"
+        }
+    },
+    "website": "https://github.com/ZohairAhmed2005",
+    "repository": "https://github.com/ZohairAhmed2005/mc_bedrock",
+    "stack": "container"
+}
